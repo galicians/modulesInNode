@@ -1,0 +1,1 @@
+small example to ilustrate how modules should be used in Node.js
